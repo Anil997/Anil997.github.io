@@ -1,0 +1,32 @@
+html {
+	margin: auto 30px;
+}
+
+h1 {
+	color:#175277;
+	font-size: 50px;
+	padding: 12 auto;
+}
+
+body {
+	background-color: #dfe3e6;
+	margin: 20px 0px 20px 20px;
+	font-family: 'Merriweather', serif;
+	width: 800px;
+	height: auto;
+	border: 5px solid black;
+	padding: 0px 20px 20px 20px;
+
+}
+
+img {
+	border: 5px solid black;
+	margin: 20px auto;
+	
+}
+
+ul { 
+	margin: auto 0;
+	color:#175277;
+}
+
